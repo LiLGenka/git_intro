@@ -5,3 +5,5 @@ echo '* Используйте `git add filename` для добавления к
 echo '* Чтобы одной командой добавить все изменённые файлы и сделать коммит, выполните `git commit -am "commit message"`' >> commmit_help.md
 echo '* Новые файлы добавлены не будут' >> commmit_help.md
 echo '- [Как сделать новый коммит](./commmit_help.md)' >> README.md 
+echo 'чтобы добавить формат выода комментария напиши: >> git log --pretty=format:"%h -%an, %ar: %s" --stat
+
