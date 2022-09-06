@@ -7,3 +7,4 @@ git push -u origin main
 Давайте проверим, всё ли работает. Переместитесь в консоли на уровень выше, удалите папку git_intro и клонируйте проект из GitHub. Так как вы добавили SSH-ключ, то и копировать репозиторий нужно через SSH-способ, а не через HTTPS.
 cd .. && rm -r git_intro
 git clone git@github.com:LiLGenka/git_intro.git
+хорош, крякнул гит
