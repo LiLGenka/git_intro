@@ -13,4 +13,6 @@ echo alies служит для псевдонима команд>>  git config -
 - [Удалить](./delete.md)
 - [Различия](diff.md)
 - [Замена коммитов](zamena_commita.md)
-- [Слияние веток](./merge_help.md)"
+- [Слияние веток](./merge_help.md)
+- [reset и revert](reset_revert.md)
+- [rebase(перенос с ветки на другую)](rebase(peremeshenie%20coda).md)
